@@ -1,5 +1,9 @@
-# CNN
+# Pytorch_note
 framework: pytorch
+
+**分散式訓練**
+
+* ddp_example.py
 
 詳細介紹可以參考我的 Medium:
 
