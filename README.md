@@ -22,3 +22,5 @@ framework: pytorch
 [Pytorch 修改、新增、刪除 pre-trained model layer](https://medium.com/ching-i/pytorch-%E4%BF%AE%E6%94%B9-%E6%96%B0%E5%A2%9E-%E5%88%AA%E9%99%A4-pre-trained-model-layer-d5556654813a)
 
 [Pytorch 凍結與解凍模型參數、layer 設置不同 learning rate](https://medium.com/ching-i/pytorch-%E5%87%8D%E7%B5%90%E8%88%87%E8%A7%A3%E5%87%8D%E6%A8%A1%E5%9E%8B%E5%8F%83%E6%95%B8-layer-%E8%A8%AD%E7%BD%AE%E4%B8%8D%E5%90%8C-learning-rate-8af99d2d4c14)
+
+[Pytorch 模型權重初始化、複製操作](https://medium.com/ching-i/pytorch-%E6%A8%A1%E5%9E%8B%E6%AC%8A%E9%87%8D%E5%88%9D%E5%A7%8B%E5%8C%96-%E8%A4%87%E8%A3%BD%E6%93%8D%E4%BD%9C-194a34fec3ff)
